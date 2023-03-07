@@ -1,6 +1,6 @@
 # RS-DAT Demo
 
-This repository contains material for the demo of the Remote-Sensing Deployable Analysis environmenT (RS-DAT), to take place at TU Delft on 2023-03-10. The notebooks in the [`notebooks` directory](./notebooks), are run on the [Spider Data Processing infrastructure](http://doc.spider.surfsara.nl/en/latest/Pages/getting_started.html) at SURF using the setup described [in this repository](https://github.com/RS-DAT/JupyterDaskOnSLURM).
+This repository contains material for the demo of the Remote-Sensing Deployable Analysis environmenT (RS-DAT), to take place at TU Delft on 2023-03-10. The notebooks in the [`examples` directory](./notebooks), are run on the [Spider Data Processing infrastructure](http://doc.spider.surfsara.nl/en/latest/Pages/getting_started.html) at SURF using the setup described [in this repository](https://github.com/RS-DAT/JupyterDaskOnSLURM).
 
 ## Links & Credits
 
